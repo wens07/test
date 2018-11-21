@@ -1,2 +1,2 @@
-# test
-for test purpose
+# libwens_go
+my go libraries
